@@ -1,5 +1,5 @@
 {
-  "name": "winston-supabase-transport",
+  "name": "@hatemjaber/winston-supabase-transport",
   "version": "1.0.0",
   "description": "",
   "main": "build/winston-supabase-transport.js",
