@@ -1,0 +1,31 @@
+{
+  "name": "winston-supabase-transport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/winston-supabase-transport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatemjaber/winston-supabase-transport.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hatemjaber/winston-supabase-transport/issues"
+  },
+  "homepage": "https://github.com/hatemjaber/winston-supabase-transport#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^1.33.2",
+    "tslib": "^2.3.1",
+    "winston": "^3.6.0",
+    "winston-transport": "^4.5.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
